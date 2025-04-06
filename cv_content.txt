@@ -1,0 +1,84 @@
+Alif Tasbir
+aliftasbir@gmail.com
+
+01558070932
+
+Middle Badda,Dhaka-1212
+
+a1if
+
+alif-tasbir
+
+aliftasbir
+
+al1f
+
+Profile
+Detail-oriented and highly motivated fresh graduate with hands-on experience as a research assistant in machine
+learning projects. Eager to embark on a journey into the dynamic world of artificial intelligence, I am actively
+seeking a job role in the AI industry to apply and expand my knowledge in this cutting-edge field.
+
+Experience
+2022/07 – 2023/03
+Dhaka
+
+Research Assistant
+University of Information Technology and Sciences (UITS)
+Conducted research on epileptic seizures and collaborated with senior researchers to
+design experiments, developing a state-of-the-art deep-learning solution to improve
+seizure detection accuracy.
+Published research findings in a scopus indexed journal, assisted in grant proposals, and
+presented work at academic events, demonstrating strong analytical and writing skills.
+•
+
+•
+
+Education
+2018/08 – 2023/03
+Dhaka
+
+Bachelor of Science in Computer Science & Engineering
+University of Information Technology and Sciences (UITS)
+CGPA: 3.74/4.00
+
+Skills
+Programming
+C,C++,Java,Python,Javascript
+
+Database
+MySQL , NoSQL
+
+Machine learning
+Tensorflow, Pytorch, Keras,Scikit-learn
+
+Tools
+Git, Mlflow, Docker,DVC
+
+Web Framework
+Django, Flask, Streamlit, Gradio,FastAPI
+
+Projects
+Tomato Leaf Disease Classification
+Python,Tensorflow,Flask,Mlflow,Dvc
+Developed an end-to-end machine learning system to classify various diseases affecting tomato plants using
+convolutional neural networks (CNNs) in Python, which helps enable efficient disease identification and informed
+crop health decisions for farmers and researchers.
+•
+
+Football Analysis System
+Python,OpenCV
+Developed a football analysis system using computer vision and deep learning using the Roboflow dataset. It uses
+YOLO to track players, officials, and the ball in football games. It goes beyond pre-trained models by training its
+detector and assigning teams based on jersey colors. Analyzing camera movement and perspective, it tracks
+players in meters and calculates their speed and distance.
+•
+
+Publications
+Epileptic seizure detection from electroencephalogram (EEG) signals using linear graph convolutional
+network and DenseNet based hybrid framework
+ScienceDirect,Elsevier
+Parkinson's disease detection from EEG signal employing autoencoder and RBFNN-based hybrid deep
+learning framework utilizing power spectral density
+Digital Health, Sage Journals
+
+

@@ -1,0 +1,103 @@
+/* Color Scheme */
+:root {
+  --primary-color: #2563eb;      /* Blue - primary accent color */
+  --secondary-color: #4f46e5;    /* Indigo - secondary accent color */
+  --dark-bg: #0f172a;            /* Dark blue - dark mode background */
+  --light-bg: #f8fafc;           /* Off-white - light mode background */
+  --dark-text: #1e293b;          /* Dark slate - text on light background */
+  --light-text: #f1f5f9;         /* Light gray - text on dark background */
+  --card-bg-light: #ffffff;      /* White - card background in light mode */
+  --card-bg-dark: #1e293b;       /* Dark slate - card background in dark mode */
+  --success-color: #10b981;      /* Green - for success indicators */
+  --border-light: #e2e8f0;       /* Light gray - borders in light mode */
+  --border-dark: #334155;        /* Dark gray - borders in dark mode */
+}
+
+/* Typography */
+/* 
+Font Family:
+- Headings: 'Poppins', sans-serif (modern, clean, professional)
+- Body: 'Inter', sans-serif (highly readable, modern)
+- Code/Technical: 'Fira Code', monospace (for technical skills/code snippets)
+
+Font Sizes:
+- Hero heading: 3.5rem (56px)
+- Section headings: 2.25rem (36px)
+- Subsection headings: 1.5rem (24px)
+- Body text: 1rem (16px)
+- Small text: 0.875rem (14px)
+
+Line Heights:
+- Headings: 1.2
+- Body text: 1.6
+*/
+
+/* Responsive Breakpoints */
+/*
+- Mobile: 0-640px
+- Tablet: 641px-1024px
+- Desktop: 1025px+
+*/
+
+/* Layout Structure */
+/*
+- Single page design with sections
+- Max content width: 1200px
+- Section padding: 5rem (80px) top/bottom
+- Grid system: 12 columns
+- Card-based layout for projects and publications
+*/
+
+/* Components */
+/*
+1. Navigation:
+   - Fixed top navigation
+   - Mobile: Hamburger menu
+   - Desktop: Horizontal links
+   - Active state indicator
+   - Smooth scrolling
+
+2. Hero Section:
+   - Full viewport height
+   - Background gradient or pattern
+   - Profile image (circular)
+   - Name, title, brief intro
+   - Social media links
+   - CTA button
+
+3. Section Headers:
+   - Consistent styling
+   - Decorative elements (underline, icon)
+   - Margin spacing
+
+4. Skill Bars:
+   - Visual representation of skill level
+   - Animated on scroll
+   - Grouped by category
+
+5. Project/Publication Cards:
+   - Consistent height/width
+   - Image or icon
+   - Title, description, technologies
+   - Hover effects
+   - Link to details or external site
+
+6. Contact Form:
+   - Clean, minimal design
+   - Input validation
+   - Submit button styling
+   - Success/error messages
+
+7. Footer:
+   - Social links
+   - Copyright
+   - Back to top button
+*/
+
+/* Animations */
+/*
+- Fade in sections on scroll
+- Skill bar animations
+- Hover effects on cards and buttons
+- Smooth transitions for dark/light mode
+*/
